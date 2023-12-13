@@ -11,7 +11,7 @@
 - ❓ If you want to talk about Cloud Computing, DevOps, Data Engineering, ML/AI Research, I'm your man  
   
 
-- ⚡ Fun fact: I use prefer functions over anything 
+- ⚡ Fun fact: I prefer functions over anything 
   
 
 <br/>  
