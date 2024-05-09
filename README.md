@@ -1,6 +1,7 @@
 ### <div align="center">I'm Rohan 👋. Full-Stack Software Engineer with a strong foundation in AWS and Data Engineering. 💻 </div>  
   
-
+- 🎓 Graduate Student at New York University
+  
 - 👨🏻‍💻 xAssociate Consultant, xSenior Software Engineer, xSoftware Engineer - Capgemini  
   
 
