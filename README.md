@@ -2,7 +2,7 @@
   
 - 🎓 Graduate Student at New York University
   
-- 👨🏻‍💻 xAssociate Consultant, xSenior Software Engineer, xSoftware Engineer - Capgemini  
+- 👨🏻‍💻 SWE Intner @ American Chemical Society, xAssociate Consultant, xSenior Software Engineer, xSoftware Engineer @ Capgemini  
   
 
 - 💻 xChapter Leader at [Google Developer Group - Lucknow ](https://gdg.community.dev/gdg-lucknow/) and Technical Content Writer at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/rohanchopra96/articles)
